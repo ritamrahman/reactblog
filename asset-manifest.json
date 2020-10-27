@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactblog/static/css/main.3ab6b9a9.chunk.css",
+    "main.js": "/reactblog/static/js/main.16b88a73.chunk.js",
+    "main.js.map": "/reactblog/static/js/main.16b88a73.chunk.js.map",
+    "runtime-main.js": "/reactblog/static/js/runtime-main.37f42477.js",
+    "runtime-main.js.map": "/reactblog/static/js/runtime-main.37f42477.js.map",
+    "static/js/2.53e94da6.chunk.js": "/reactblog/static/js/2.53e94da6.chunk.js",
+    "static/js/2.53e94da6.chunk.js.map": "/reactblog/static/js/2.53e94da6.chunk.js.map",
+    "index.html": "/reactblog/index.html",
+    "precache-manifest.bf4c96e27691074a098633bed64db554.js": "/reactblog/precache-manifest.bf4c96e27691074a098633bed64db554.js",
+    "service-worker.js": "/reactblog/service-worker.js",
+    "static/css/main.3ab6b9a9.chunk.css.map": "/reactblog/static/css/main.3ab6b9a9.chunk.css.map",
+    "static/js/2.53e94da6.chunk.js.LICENSE.txt": "/reactblog/static/js/2.53e94da6.chunk.js.LICENSE.txt",
+    "static/media/affection-baby-baby-girl-beautiful-377058.jpg": "/reactblog/static/media/affection-baby-baby-girl-beautiful-377058.7e5a40c5.jpg",
+    "static/media/beautiful-&-simple.jpg": "/reactblog/static/media/beautiful-&-simple.107caf2b.jpg",
+    "static/media/cestovat-chladny-dno-jednoduchost-2868847.jpg": "/reactblog/static/media/cestovat-chladny-dno-jednoduchost-2868847.a923ed21.jpg",
+    "static/media/fitness-blog-post.jpg": "/reactblog/static/media/fitness-blog-post.1d08ccf9.jpg",
+    "static/media/memories-from.jpg": "/reactblog/static/media/memories-from.4b00d9ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37f42477.js",
+    "static/js/2.53e94da6.chunk.js",
+    "static/css/main.3ab6b9a9.chunk.css",
+    "static/js/main.16b88a73.chunk.js"
+  ]
+}
