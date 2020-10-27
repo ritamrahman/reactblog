@@ -1,0 +1,40 @@
+.sidebar {
+    width: 30%;
+}
+
+.recent__post {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.recent__post>h3 {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 10px 0;
+}
+
+.recent__post .category__title {
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    font-size: 15px;
+    padding: 10px 0 10px 20px;
+    transition: .2s all;
+    width: 90%;
+    background-color: #f88c00;
+    margin: 8px auto;
+    border-radius: 10px;
+}
+
+.category__title:hover {
+    color: #f88c00;
+    background-color: transparent;
+    border: 2px solid #f88c00;
+}
+
+.recent__post a {
+    text-decoration: none;
+}

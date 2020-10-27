@@ -1,0 +1,50 @@
+.hero__div {
+    width: 100%;
+    height: 400px;
+    position: relative;
+
+}
+
+.hero__div h1 {
+    width: 50%;
+    border: 1px solid green;
+}
+
+
+.top_hero__section {
+    display: flex;
+    justify-content: space-between;
+    padding: 1px;
+}
+
+.bottom_hero__section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top_hero__img {
+    width: 50%;
+    height: 200px;
+    overflow: hidden;
+    padding: 1px;
+}
+
+.top_hero__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* object-position: bottom left; */
+}
+
+.bottom_hero__img {
+    width: 50%;
+    height: 200px;
+    overflow: hidden;
+    padding: 1px;
+}
+
+.bottom_hero__img img {
+    width: 100%;
+    /* object-fit: cover; */
+    object-position: bottom;
+}

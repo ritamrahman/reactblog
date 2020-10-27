@@ -1,0 +1,29 @@
+.main_menu {
+    border-bottom: 4px solid #F88C00;
+}
+
+ul {
+    display: flex;
+}
+
+.nav-item {
+    display: inline-block;
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+    /* padding: 10px 0; */
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    font-size: 17px;
+    padding: 10px 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu_active {
+    background-color: #F88C00;
+}

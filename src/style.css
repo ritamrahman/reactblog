@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app__Main {
+  width: 100%;
+  /* height: 100vh; */
+  background-color: lightgray;
+}
+
+.app__Center {
+  margin: auto;
+  width: 77%;
+  /* height: 100vh; */
+  box-shadow: 0 0 10px rgb(53, 52, 52);
+  background-color: #fff;
+}
